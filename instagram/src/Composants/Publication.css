@@ -1,0 +1,19 @@
+.imgPublication{
+    max-height: 500px;
+}
+
+@media screen  and (max-width: 500px){
+        
+    .imgPublication{
+        max-height: 250px;
+    }
+
+}
+
+@media screen  and (max-width: 1000px){
+        
+    .imgPublication{
+        max-height: 350px;
+    }
+
+}

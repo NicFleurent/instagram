@@ -1,0 +1,14 @@
+#ecrireComm{
+    border: none;
+    max-width:100%;
+    min-width:100%;
+    resize: none;
+}
+
+#ecrireComm:focus{
+    outline: none;
+}
+
+.iconeClickable:hover{
+    opacity: 50%;
+}

@@ -1,0 +1,24 @@
+@media screen  and (min-width: 992px){
+        
+    .heightManu{
+        height: 875px;
+    }
+
+}
+
+.sansLigne{
+    color: black;
+    text-decoration-line: none;
+}
+
+.sansLigne:hover{
+    color: black;
+    text-decoration-line: none;
+}
+
+.hoverGris:hover{
+    background-color: lightgray;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background-color 1s ease;
+}
